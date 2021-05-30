@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/movieName"
+        android:title="Movie Title"
+        app:actionViewClass="android.widget.SearchView" />
+    <item
+        android:id="@+id/movieActors"
+        android:title="Movie Actors"/>
+    <item
+        android:id="@+id/movieDirector"
+        android:title="Movie Director"/>
+    <item
+        android:id="@+id/movieReview"
+        android:title="Movie Review"/>
+</menu>

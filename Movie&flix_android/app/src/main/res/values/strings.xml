@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">Coursework02</string>
+    <string name="title_of_the_movie">Title of the Movie</string>
+    <string name="register_movie">Register Movie</string>
+    <string name="display_movies">Display Movies</string>
+    <string name="favourites">Favourites</string>
+    <string name="edit_movies">Edit Movies</string>
+    <string name="search">Search</string>
+    <string name="ratings">Ratings</string>
+    <string name="register_movies">Register Movies</string>
+    <string name="movieflix">MovieFlix</string>
+    <string name="movie_flix"><![CDATA[Movie & Flix]]></string>
+    <string name="movie_amp_flix_favourite_movies"><![CDATA[Movie & Flix -Favourite Movies]]></string>
+    <string name="name">Name</string>
+    <string name="title_of_the_movies">Title of the movie</string>
+    <string name="year">Year</string>
+    <string name="the_director">The Director</string>
+    <string name="actors_actresses">Actors/Actresses</string>
+    <string name="rating">Rating</string>
+    <string name="review">Review</string>
+    <string name="movie_amp_flix_register_movies"><![CDATA[Movie & Flix -Register Movies]]></string>
+    <string name="save">Save</string>
+    <string name="update">Update</string>
+
+
+</resources>
